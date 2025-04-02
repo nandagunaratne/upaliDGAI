@@ -1,7 +1,7 @@
 <?php
-$title = 'Home - Welcome to TransAm Piping Products';
+$title = 'Home - Welcome to DGAI';
 $is_active = 'home';
-require_once 'content/navigation/header.php';
+require_once 'header.php';
 ?>
 
 <!-- ======= Hero Section ======= -->
@@ -12,24 +12,24 @@ require_once 'content/navigation/header.php';
 							    <!-- Slide 1 -->
 			<!-- 				    
 			<div class="carousel-item responsive active"
-				style="background-image: url(assets/img/slide/HolidayHours.jpg);">
+				style="background-image: url(HolidayHours.jpg);">
 			</div> 
 			-->
 			<!-- Slide 1 --> 
 			<div class="carousel-item responsive active"
-				style="background-image: url(assets/img/slide/CalgaryLocation.jpg);">
+				style="background-image: url(CalgaryLocation.jpg);">
 			</div>
 			<!-- Slide 2 -->
 			<div class="carousel-item responsive"
-				style="background-image: url(assets/img/slide/CalgaryYard2.jpg);">
+				style="background-image: url(CalgaryYard2.jpg);">
 			</div>
 			<!-- Slide 3 -->
 			<div class="carousel-item responsive"
-				style="background-image: url(assets/img/slide/warehouse3.jpg);">
+				style="background-image: url(warehouse3.jpg);">
 			</div>
 		  <!-- Slide 4 -->
 			<div class="carousel-item responsive"
-				style="background-image: url(assets/img/slide/Warehouse6.jpg);">
+				style="background-image: url(Warehouse6.jpg);">
 			</div>
 
 		</div>
@@ -51,15 +51,21 @@ require_once 'content/navigation/header.php';
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-9 text-center text-lg-left">
-				<h3>Welcome to Trans Am Piping Products Ltd.!</h3>
+				<h3>Welcome to Dance Gallery By Amindra Isu.!</h3>
 				<p>&nbsp;</p>
-				<p>Based in Alberta, Canada, Trans Am has been a distributor of high
-					quality carbon steel piping components since 1975.</p>
+				<p>Dance Gallery By Amindra Isu (DGAI) is a premier Sri Lankan dance
+ensemble dedicated to preserving and showcasing the country’s rich
+cultural heritage. Our performances bring to life the elegance and
+energy of traditional Sri Lankan dance, infused with contemporary
+inuences that captivate audiences worldwide.</p>
 				<p>&nbsp;</p>
-				<p>With sales centers in Calgary and Edmonton, Trans Am offers the
-					most complete inventory of Buttweld Fittings, Forged Fittings,
-					Forged Flanges, Pipe and related Piping components available in western
-					Canada, with an experienced staff to support your needs.</p>
+				<p>Our LEAD ARTIST: GIHAN AMINDRA
+Our principal dancer, Gihan Amindra, is a highly accomplished performer with a Performance Art 
+Degree from Sri Lanka Performance Art University. Recognized as a leading figure in the Sri Lankan 
+dance scene, he has per- formed in the USA, China, Japan, Singapore, France, and Dubai and has 
+graced every major theatre in Sri Lanka. His talent, creativity, and dedica- tion have made him a 
+celebrated name in both traditional and contempo- rary dance.
+</p>
 				<p>&nbsp;</p>
 				<p>Specialists in Carbon Steel Pipe, Flanges, Fittings and related piping components.</p>
 			</div>
@@ -105,7 +111,7 @@ require_once 'content/navigation/header.php';
 
 <?php
 
-require_once 'content/navigation/footer.php';
+require_once 'footer.php';
 ?>
 
 <!-- Start Temporary for XMas Section -->
